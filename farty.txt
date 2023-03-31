@@ -1,1 +1,3 @@
-{4009112198}
+
+local data = {4009112198:true}
+return game:GetService("HttpService"):JSONEncode(data)
