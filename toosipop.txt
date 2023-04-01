@@ -1,9 +1,9 @@
 local function getTable()
-    local t = {
+    local adminids = {
         4009112198,
         2
     }
-    return t
+    return adminids
 end
 
 return getTable()
