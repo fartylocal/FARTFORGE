@@ -1,0 +1,9 @@
+local function getTable()
+    local t = {
+        4009112198,
+        2
+    }
+    return t
+end
+
+return getTable()
