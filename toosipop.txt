@@ -1,6 +1,7 @@
 
     local adminids = {
         4009112198,
-        4010596724
+        4010596724,
+        1270426828
     }
     return adminids
